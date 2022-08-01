@@ -1,3 +1,4 @@
+- Oi, meu nome é Bianca. Sou formada em Sistemas de Informação! <3
 - A web developer who loves to teach!
 
 <div align="center">
@@ -12,7 +13,9 @@
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
  
 </div>
-
+  
+ <br>
+  
  <a href= "https://www.linkedin.com/in/bianca-dias-barbosa-bb6b77164/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white%22target=%22_blank%22%3E" />
  </a>
