@@ -4,6 +4,6 @@
 
 I have a degree at Information Systems and I love to code, especially in JavaScript! I also love to help another people.
 
-Trying to give my in every project and place I am part of.
+Trying to give my best in every project and place I am part of.
 
 <h4>I would love to know more about you! Feel free to connect with me on LinkedIn.</h4>
